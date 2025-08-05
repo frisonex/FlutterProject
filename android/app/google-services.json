@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537072122339",
+    "project_id": "asegensa-43246",
+    "storage_bucket": "asegensa-43246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537072122339:android:fffcc1b4d9052d5a4a88d6",
+        "android_client_info": {
+          "package_name": "com.example.asegensa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_lWCCTRasxjK3dY6dwtOYw5wJ3ILvk_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
